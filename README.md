@@ -58,7 +58,7 @@ The final report includes each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-### Math Scores by Grade\*\*
+### Math Scores by Grade
 
 * A table that lists the average Math Score for students of each grade level at each school.
 

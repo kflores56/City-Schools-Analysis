@@ -1,4 +1,4 @@
-# Pandas Challenge: PyCitySchools
+# City Schools Analysis
 
 The following includes an analysis of district-wide standardized test results. Resources files include every student's math and reading scores, as well as various information on the schools they attend. The data was aggregated to showcase obvious trends in school performance.
 

@@ -2,6 +2,8 @@
 
 The following includes an analysis of district-wide standardized test results. Resources files include every student's math and reading scores, as well as various information on the schools they attend. The data was aggregated to showcase obvious trends in school performance.
 
+![01.%20Combined_Data.png)](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/01.%20Combined_Data.png)
+
 The final report includes each of the following:
 
 ### District Summary
@@ -16,7 +18,7 @@ The final report includes each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-  ![01.%20Combined_Data.png)](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/01.%20Combined_Data.png)
+ ![02.%20District_summary.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/02.%20District_summary.png)
 
 ### School Summary
 
@@ -31,6 +33,8 @@ The final report includes each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![03.%20Summary_by_school.png)](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/03.%20Summary_by_school.png)
 
 ### Top Performing Schools (By % Overall Passing)
 
@@ -45,6 +49,8 @@ The final report includes each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![04.%20Top_performing_schools.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/04.%20Top_performing_schools.png)
 
 ### Bottom Performing Schools (By % Overall Passing)
 
@@ -60,13 +66,19 @@ The final report includes each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
+  ![05.%20Low_performing_schools.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/05.%20Low_performing_schools.png)
+  
 ### Math Scores by Grade
 
 * A table that lists the average Math Score for students of each grade level at each school.
 
+![06.%20Math_scores_by_grade.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/06.%20Math_scores_by_grade.png)
+
 ### Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level at each school.
+
+![07.%20Reading_scores_by_grade.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/07.%20Reading_scores_by_grade.png)
 
 ### Scores by School Spending
 
@@ -76,6 +88,8 @@ The final report includes each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![08.%20Scores_by_school_spending.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/08.%20Scores_by_school_spending.png)
 
 ### Scores by School Size
 
@@ -85,6 +99,8 @@ The final report includes each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![09.%20Student_score_by_size.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/09.%20Student_score_by_size.png)
 
 ### Scores by School Type
 
@@ -94,6 +110,8 @@ The final report includes each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![10.%20Scores_by_school_type.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/10.%20Scores_by_school_type.png)
 
 
 ### Observale trends noted from data analysis:

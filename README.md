@@ -15,6 +15,8 @@ The final report includes each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![01.%20Combined_Data.png)](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/01.%20Combined_Data.png)
 
 ### School Summary
 

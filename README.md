@@ -72,13 +72,13 @@ The final report includes each of the following:
 
 * A table that lists the average Math Score for students of each grade level at each school.
 
-![06.%20Math_scores_by_grade.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/06.%20Math_scores_by_grade.png)
+<img src="https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/06.%20Math_scores_by_grade.png" width="400"/>
 
 ### Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level at each school.
 
-![07.%20Reading_scores_by_grade.png](https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/07.%20Reading_scores_by_grade.png)
+<img src="https://github.com/kflores56/City-Schools-Analysis/blob/main/Images/07.%20Reading_scores_by_grade.png" width="400"/>
 
 ### Scores by School Spending
 
